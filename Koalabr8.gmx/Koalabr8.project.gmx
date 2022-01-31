@@ -51,6 +51,7 @@
     <sprites name="dynamite">
       <sprite>sprites\spr_detonator</sprite>
       <sprite>sprites\spr_TNT</sprite>
+      <sprite>sprites\sprite_explosion</sprite>
     </sprites>
   </sprites>
   <backgrounds name="background">
@@ -71,13 +72,34 @@
       <object>objects\object_controller</object>
       <object>objects\object_exit</object>
       <object>objects\object_exit2</object>
+      <object>objects\object_saw_horizontal</object>
+      <object>objects\object_saw_vertical</object>
+      <objects name="dynamite">
+        <object>objects\object_TNT</object>
+        <object>objects\object_detonator</object>
+        <object>objects\object_explosion</object>
+      </objects>
+      <object>objects\object_rock</object>
     </objects>
     <objects name="koala">
       <object>objects\object_koala</object>
+      <object>objects\object_koala_dead</object>
+    </objects>
+    <objects name="locks">
+      <object>objects\object_lock_blue</object>
+      <object>objects\object_switch_blue</object>
+      <object>objects\object_lock_yellow</object>
+      <object>objects\object_switch_yellow</object>
+      <object>objects\object_switch_red</object>
+      <object>objects\object_lock_red</object>
     </objects>
   </objects>
   <rooms name="rooms">
-    <room>rooms\room_testroom</room>
+    <room>rooms\room_5</room>
+    <room>rooms\room_3</room>
+    <room>rooms\room_4</room>
+    <room>rooms\room_1</room>
+    <room>rooms\room_2</room>
     <room>rooms\room_frontend</room>
     <room>rooms\room_completed</room>
   </rooms>
