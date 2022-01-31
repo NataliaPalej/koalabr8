@@ -59,7 +59,6 @@
     <background>background\back_tiles</background>
   </backgrounds>
   <paths name="paths"/>
-  <scripts name="scripts"/>
   <objects name="objects">
     <objects name="buttons">
       <object>objects\obj_butstart</object>

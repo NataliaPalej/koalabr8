@@ -52,7 +52,7 @@
   </views>
   <instances>
     <instance objName="object_controller" x="0" y="0" name="inst_750757D0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="object_koala" x="40" y="160" name="inst_AF7F4557" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="object_koala" x="40" y="80" name="inst_AF7F4557" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="object_wall" x="80" y="40" name="inst_C3BDCEE2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="object_wall" x="120" y="40" name="inst_4DF8182A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="object_wall" x="160" y="40" name="inst_9B63965A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -157,10 +157,9 @@
     <instance objName="object_TNT" x="360" y="160" name="inst_8E2847CA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="object_TNT" x="520" y="80" name="inst_213FB33E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="object_TNT" x="80" y="80" name="inst_5E1C6DC9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="object_rock" x="40" y="280" name="inst_C34C4293" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="object_koala" x="200" y="400" name="inst_28D57767" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="object_rock" x="280" y="400" name="inst_B8E19C8C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="object_koala" x="40" y="200" name="inst_28D57767" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="object_restart" x="520" y="0" name="inst_BBE679F2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="object_koala" x="40" y="320" name="inst_32031688" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="back_tiles" x="600" y="440" w="40" h="40" xo="120" yo="40" id="10000086" name="inst_F85ED0FB" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
