@@ -160,6 +160,7 @@
     <instance objName="object_TNT" x="360" y="160" name="inst_A02CF085" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="object_lock_blue" x="400" y="120" name="inst_E8A482C5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="object_switch_blue" x="120" y="80" name="inst_2EAAF9CA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="object_restart" x="520" y="0" name="inst_4223F3CB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="back_tiles" x="600" y="440" w="40" h="40" xo="120" yo="40" id="10000138" name="inst_2519F522" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>

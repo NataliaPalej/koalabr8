@@ -59,12 +59,14 @@
     <background>background\back_tiles</background>
   </backgrounds>
   <paths name="paths"/>
+  <scripts name="scripts"/>
   <objects name="objects">
     <objects name="buttons">
       <object>objects\obj_butstart</object>
       <object>objects\obj_butload</object>
       <object>objects\obj_butquit</object>
       <object>objects\obj_congrats</object>
+      <object>objects\object_restart</object>
     </objects>
     <objects name="misc">
       <object>objects\object_wall</object>
@@ -95,11 +97,11 @@
     </objects>
   </objects>
   <rooms name="rooms">
-    <room>rooms\room_5</room>
-    <room>rooms\room_3</room>
-    <room>rooms\room_4</room>
     <room>rooms\room_1</room>
     <room>rooms\room_2</room>
+    <room>rooms\room_3</room>
+    <room>rooms\room_4</room>
+    <room>rooms\room_5</room>
     <room>rooms\room_frontend</room>
     <room>rooms\room_completed</room>
   </rooms>
